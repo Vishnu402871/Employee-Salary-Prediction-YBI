@@ -105,6 +105,5 @@ pytest
 - [scikit-learn](https://scikit-learn.org/)
 - [XGBoost](https://xgboost.readthedocs.io/)
 - [pandas](https://pandas.pydata.org/)
-- Developed by [Mohammad Sarfaraz Afzal](https://github.com/mohammadsarfarazafzal)
 
 ---
