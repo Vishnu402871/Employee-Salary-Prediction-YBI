@@ -61,13 +61,8 @@ Make sure you have:
 
 ### 📦 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/mohammadsarfarazafzal/employee-salary-prediction.git
-   cd employee-salary-prediction
-   ```
 
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
